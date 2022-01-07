@@ -2,7 +2,7 @@
 import { configure } from '@storybook/vue';
 import './margin.css';
 import '../../src/assets/scss/index.scss';
-import './sprites.scss';
+import '../../src/assets/scss/sprites.scss';
 
 import Vue from 'vue';
 import BootstrapVue from 'bootstrap-vue';
